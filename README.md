@@ -14,10 +14,43 @@ I have a strong interest in front-end development and enjoy working with modern 
 
 ## 🛠️ Technologies I work with
 
-**Frontend**
 
-HTML • CSS • JavaScript • React.js • Tailwind CSS
+<h3>Frontend</h3>
 
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite" />
+</p>
+
+<h3>Programming & Database</h3>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,mysql" />
+</p>
+
+<h3>Tools</h3>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+<h2>🛠️ Technologies & Tools</h2>
+
+<h3>Frontend Development</h3>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite" />
+</p>
+
+<h3>Programming & Database</h3>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,mysql" />
+</p>
+
+<h3>Tools</h3>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 **Tools & Technologies**
 
 Git • GitHub • Vite • MySQL • Python • Java • C • C++
