@@ -40,9 +40,6 @@ I have a strong interest in front-end development and enjoy working with modern 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
-**Tools & Technologies**
-
-Git • GitHub • Vite • MySQL • Python • Java • C • C++
 
 ---
 
