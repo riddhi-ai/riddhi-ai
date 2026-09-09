@@ -34,17 +34,6 @@ I have a strong interest in front-end development and enjoy working with modern 
 </p>
 <h2>🛠️ Technologies & Tools</h2>
 
-<h3>Frontend Development</h3>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite" />
-</p>
-
-<h3>Programming & Database</h3>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,mysql" />
-</p>
 
 <h3>Tools</h3>
 
