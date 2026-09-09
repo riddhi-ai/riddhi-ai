@@ -1,10 +1,10 @@
-# Hi, I'm Riddhi 👋
+# Hi, I'm Riddhi Naskari 👋
 
 I'm a web developer and MCA student who enjoys building responsive, user-friendly web applications and turning ideas into real projects.
 
 I have a strong interest in front-end development and enjoy working with modern technologies like React and JavaScript. I'm constantly learning, experimenting, and improving my skills through projects and new challenges.
 
-## 👩‍💻 A little about me
+## 👩‍💻 About me
 
 - 🎓 BCA Graduate | Currently pursuing MCA
 -  Interested in Web Development and Front-End Development
@@ -73,7 +73,7 @@ It includes:
 
 ---
 
-## 🏆 A few achievements
+## 🏆 Achievements
 
 - 🏅 Grand Finalist — Smart India Hackathon (SIH) 2025
 - 🏆 District/University-Level Winner → State-Level Finalist — Aavishkar 2025–26
