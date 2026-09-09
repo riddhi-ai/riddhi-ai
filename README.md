@@ -7,10 +7,10 @@ I have a strong interest in front-end development and enjoy working with modern 
 ## 👩‍💻 A little about me
 
 - 🎓 BCA Graduate | Currently pursuing MCA
-- 💻 Interested in Web Development and Front-End Development
-- 🌱 Currently learning and exploring new technologies
-- 🚀 I enjoy building projects that solve real-world problems
-- 🤝 Always open to learning and collaborating
+-  Interested in Web Development and Front-End Development
+-  Currently learning and exploring new technologies
+-  I enjoy building projects that solve real-world problems
+-  Always open to learning and collaborating
 
 ## 🛠️ Technologies I work with
 
@@ -32,7 +32,7 @@ I have a strong interest in front-end development and enjoy working with modern 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
- />
+ 
 
 ---
 
