@@ -1,6 +1,6 @@
 # Hi, I'm Riddhi Naskari 👋
 
-I'm a web developer and MCA student who enjoys building responsive, user-friendly web applications and turning ideas into real projects.
+I'm an aspiring web developer and MCA student who enjoys building responsive, user-friendly web applications and turning ideas into real projects.
 
 I have a strong interest in front-end development and enjoy working with modern technologies like React and JavaScript. I'm constantly learning, experimenting, and improving my skills through projects and new challenges.
 
