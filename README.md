@@ -75,9 +75,9 @@ It includes:
 
 ## 🏆 Achievements
 
-- 🏅 Grand Finalist — Smart India Hackathon (SIH) 2025
-- 🏆 District/University-Level Winner → State-Level Finalist — Aavishkar 2025–26
-- 🥉 Third Prize — 9th National Lonar Science Festival 2026
+- 🏅 Grand Finalist - Smart India Hackathon (SIH) 2025
+- 🏆 District/University-Level Winner → State-Level Finalist - Aavishkar 2025–26
+- 🥉 Third Prize - 9th National Lonar Science Festival 2026
 - 🎖️ University Colour Coat Holder
 
 ---
