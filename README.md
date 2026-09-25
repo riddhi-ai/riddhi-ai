@@ -38,7 +38,7 @@ I have a strong interest in front-end development and enjoy working with modern 
 
 ##  Some of my projects
 
-### Qure-d — AI-Powered Health Guidance Platform
+### Qure-d - AI-Powered Health Guidance Platform
 
 Qure-d is an AI-powered health guidance platform designed to help users better understand and organize their health information.
 
@@ -56,7 +56,7 @@ The platform has been used by **100+ users**.
 
 ---
 
-### BrightSmile — Dental Clinic Web Platform
+### BrightSmile - Dental Clinic Web Platform
 
 BrightSmile is a responsive dental clinic website built to provide patients with an easy and modern online experience.
 
