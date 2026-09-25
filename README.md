@@ -1,18 +1,18 @@
-# Hi, I'm Riddhi Naskari 👋
+# Hi, I'm Riddhi Naskari 
 
 I'm an aspiring web developer and MCA student who enjoys building responsive, user-friendly web applications and turning ideas into real projects.
 
 I have a strong interest in front-end development and enjoy working with modern technologies like React and JavaScript. I'm constantly learning, experimenting, and improving my skills through projects and new challenges.
 
-## 👩‍💻 About me
+##  About me
 
-- 🎓 BCA Graduate | Currently pursuing MCA
+-  BCA Graduate | Currently pursuing MCA
 -  Interested in Web Development and Front-End Development
 -  Currently learning and exploring new technologies
 -  I enjoy building projects that solve real-world problems
 -  Always open to learning and collaborating
 
-## 🛠️ Technologies I work with
+##  Technologies I work with
 
 
 <h3>Frontend</h3>
@@ -36,9 +36,9 @@ I have a strong interest in front-end development and enjoy working with modern 
 
 ---
 
-## 🚀 Some of my projects
+##  Some of my projects
 
-### 🩺 Qure-d — AI-Powered Health Guidance Platform
+### Qure-d — AI-Powered Health Guidance Platform
 
 Qure-d is an AI-powered health guidance platform designed to help users better understand and organize their health information.
 
@@ -52,11 +52,11 @@ Some of its features include:
 
 The platform has been used by **100+ users**.
 
-🏆 The project was also a **District/University-Level Winner and State-Level Finalist at Aavishkar 2025–26**.
+ The project was also a **District/University-Level Winner and State-Level Finalist at Aavishkar 2025–26**.
 
 ---
 
-### 🦷 BrightSmile — Dental Clinic Web Platform
+### BrightSmile — Dental Clinic Web Platform
 
 BrightSmile is a responsive dental clinic website built to provide patients with an easy and modern online experience.
 
@@ -73,7 +73,7 @@ It includes:
 
 ---
 
-## 🏆 Achievements
+##  Achievements
 
 - 🏅 Grand Finalist - Smart India Hackathon (SIH) 2025
 - 🏆 District/University-Level Winner → State-Level Finalist - Aavishkar 2025–26
@@ -84,9 +84,9 @@ It includes:
 
 ## 📫 Let's connect
 
-💼 [LinkedIn](https://www.linkedin.com/in/riddhi-naskari-986955295)
+ [LinkedIn](https://www.linkedin.com/in/riddhi-naskari-986955295)
 
-💻 [GitHub](https://github.com/riddhi-ai)
+ [GitHub](https://github.com/riddhi-ai)
 
 ---
 
