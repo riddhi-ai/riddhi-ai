@@ -1,4 +1,4 @@
-#                                                                     Riddhi Pravin Naskari 
+<h1 align="center">Riddhi Pravin Naskari</h1>
 
 I'm an aspiring web developer and MCA student who enjoys building responsive, user-friendly web applications and turning ideas into real projects.
 
@@ -84,9 +84,15 @@ It includes:
 
 ## 📫 Let's connect
 
- [LinkedIn](https://www.linkedin.com/in/riddhi-naskari-986955295)
+<p align="center">
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/riddhi-naskari-986955295">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
- [GitHub](https://github.com/riddhi-ai)
 
 ---
 
