@@ -1,4 +1,4 @@
-# Hi, I'm Riddhi Naskari 
+#                                                                     Riddhi Pravin Naskari 
 
 I'm an aspiring web developer and MCA student who enjoys building responsive, user-friendly web applications and turning ideas into real projects.
 
